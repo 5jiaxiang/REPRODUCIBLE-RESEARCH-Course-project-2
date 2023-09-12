@@ -1,11 +1,3 @@
-## Title: Analysis of the Adverse Health and Economic Impacts of US Storms
-
-## Author: Ayushman Prasad
-
-## Date: 2023-04-30
-
-## Output: html_document
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
